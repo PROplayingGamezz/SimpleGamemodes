@@ -1,0 +1,29 @@
+---
+name: Simplegamemodes
+api: 3.0.0
+main: simplegamemodes\Main
+author: PROplayingGamez
+version: 1.0.0
+commands:
+  creative:
+    description: Change your or anothers player gamemode to creative
+    permission: gamemodes.permission
+    aliases: [gmc]
+  survival:
+    description: Change your or anothers player gamemode to survival
+    permission: gamemodes.permission
+    aliases: [gms]
+  spectator:
+    description: Change your or anothers player gamemode to spectator
+    permission: gamemodes.permission
+    aliases: [gmspec]
+  adventure:
+    description: Change your or anothers player gamemode to adventure
+    permission: gamemodes.permission
+    aliases: [gma]
+  gamemodes:
+    description: SimpleGamemode Commands
+    permission: gamemodes.permission
+  gamemodes-about:
+    description: Tells you about simplegamemodes
+...
