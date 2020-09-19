@@ -23,10 +23,15 @@ Permissions:
 
 gamemodes.permission
 # About
+
 [x] Change gamemodes
+
 [x] Change gamemodes for others
+
 [x] Short commands
+
 [] Custom Config
+
 [] Forms
 # Contact
 If you need to get in contact with me my discord is PROplayingGamez#9178
