@@ -8,15 +8,19 @@ Commands:
 /gamemodes-about - Tells you about simplegamemodes
 
 /creative - Change your or anothers player gamemode to creative
+
 alias: gmc
 
 /survival - Change your or anothers player gamemode to survival
+
 alias: gms
 
 /spectator - Change your or anothers player gamemode to spectator
+
 alias: gmspec
 
 /adventure - Change your or anothers player gamemode to adventure
+
 alias: gma
 
 Permissions:
